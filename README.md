@@ -1,7 +1,7 @@
 # 🌊
 
 
-<img src="photos/morning.jpg" alt="morning" width="1000"/>
+<img src="photos/oneida.jpg" alt="oneida" height="400"/>
 
 ---
 
